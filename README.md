@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning **DSA and Web Development**
 
- 👨‍💻 All of my projects are available at [Portfolio](aman84a-dev.github.io/Aman-Chaurasia-portfolio/)
+ 👨‍💻 All of my projects are available at [Portfolio](https://aman84a-dev.github.io/Aman-Chaurasia-portfolio/)
 
 📫 How to reach me **aman.chaurasia2605@gmail.com**
 
