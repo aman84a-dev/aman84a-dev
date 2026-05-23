@@ -1,13 +1,13 @@
 <img width="3780" height="1890" alt="GithubBanner" src="https://github.com/user-attachments/assets/fdba02cc-9631-4629-8514-ec914543916d" />
 
 <h1 align="center">Hi 👋, I'm Aman Chaurasia</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman84a-dev&label=Profile%20views&color=0e75b6&style=flat" alt="aman84a-dev" /> </p>
 
-🌱 I’m currently learning **DSA and Web Development**
+🌱 I’m currently learning **MERN Stack and Backend**
 
  👨‍💻 All of my projects are available at [Portfolio](https://aman84a-dev.github.io/Aman-Chaurasia-portfolio/)
 
