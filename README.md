@@ -1,5 +1,7 @@
 <img width="3780" height="1890" alt="GithubBanner" src="https://github.com/user-attachments/assets/fdba02cc-9631-4629-8514-ec914543916d" />
 
+<img width="3780" height="1890" alt="GithubBanner" src="https://github.com/user-attachments/assets/fdba02cc-9631-4629-8514-ec914543916d" /> />
+
 <h1 align="center">Hi 👋, I'm Aman Chaurasia</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
